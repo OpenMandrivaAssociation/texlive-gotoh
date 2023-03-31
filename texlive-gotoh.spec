@@ -1,6 +1,6 @@
 Name:		texlive-gotoh
 Version:	44764
-Release:	1
+Release:	2
 Summary:	An implementation of the Gotoh sequence alignment algorithm
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gotoh
