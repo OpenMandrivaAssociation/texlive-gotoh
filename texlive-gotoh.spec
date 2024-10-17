@@ -3,7 +3,7 @@ Version:	44764
 Release:	2
 Summary:	An implementation of the Gotoh sequence alignment algorithm
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gotoh
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gotoh
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gotoh.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gotoh.doc.r%{version}.tar.xz
